@@ -1,3 +1,5 @@
+package codewars.kyu8
+
 import org.junit.jupiter.api.Test
 import kotlin.math.pow
 import kotlin.test.assertEquals
